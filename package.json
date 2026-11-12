@@ -1,0 +1,13 @@
+
+{
+  "name": "nvidia-janitor-proxy",
+  "version": "1.0.0",
+  "description": "NVIDIA NIM proxy for Janitor AI",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
